@@ -22,9 +22,3 @@ This PowerShell script automates the uninstall of Cisco Anyconnect, including th
 - [Requires Get-Package cmdlet, which is included in Powershell versions past 5.0]
 
 ---
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/yourusername/repositoryname.git](https://github.com/lhensl3529/Uninstall-AnyConnect.git)
